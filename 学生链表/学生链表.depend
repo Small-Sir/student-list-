@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1608549500 source:e:\电脑桌面文件\链表\学生链表\main.c
+	<stdio.h>
+	"mainmenu_stu.h"
+
+1608556209 e:\电脑桌面文件\链表\学生链表\mainmenu_stu.h
+
+1608556048 source:e:\电脑桌面文件\链表\学生链表\mainmenu_stu.c
+	<stdio.h>
+	"mainmenu_stu.h"
+
